@@ -1,0 +1,7 @@
+Jenkinsfile
+k8s.yml
+.git/
+.gitignore
+.venv/
+.idea/
+README.md
